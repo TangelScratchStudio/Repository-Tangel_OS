@@ -8,7 +8,7 @@ Tangel OS
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/widget-js/widgets" alt="">
+  <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
 </p>
 
 # Tangel OS版本储存仓库
