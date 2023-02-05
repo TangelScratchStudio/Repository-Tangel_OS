@@ -8,6 +8,7 @@ Tangel OS
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Tangel%20Studio-Subject-blue" alt="">
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
   <img src="https://img.shields.io/github/v/release/TangelScratchStudio/Repository-Tangel_OS?include_prereleases" alt="">
 </p>
