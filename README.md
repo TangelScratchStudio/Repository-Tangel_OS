@@ -16,7 +16,7 @@ Tangel OS
 
 ***
 
-## 使用前请阅读
+## ⚠️使用前请阅读⚠️
 
 [Tangel OS系列 所有版本统一声明](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
 
