@@ -22,4 +22,4 @@ Tangel OS
 
 [Tangel Studio 隐私声明](https://docs.qq.com/doc/DQlpwT3pEakZxQUt0)
 
-许可证【知识共享(Creative Commons)署名 — 相同方式共享4.0公共许可协议国际版(CC BY-SA 4.0)】[摘要版](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) [全文版](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)
+许可证【署名—相同方式共享4.0公共许可协议国际版(CC BY-SA 4.0)】[摘要版](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) [全文版](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)
