@@ -9,10 +9,15 @@ Tangel OS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Produced%20by-Tangel%20Studio-blue" alt="">
+  <img src="https://img.shields.io/badge/category-Tangel%20OS%E7%89%88%E6%9C%AC%E5%82%A8%E5%AD%98%E4%BB%93%E5%BA%93-blue" alt="">
   <img src="https://img.shields.io/badge/license-CC--BY--SA--4.0-brightgreen" alt="">
   <img src="https://img.shields.io/github/v/release/TangelScratchStudio/Repository-Tangel_OS?include_prereleases" alt="">
 </p>
 
-# Tangel OS版本储存仓库
+***
+
+## 使用前请阅读
 
 [Tangel OS系列 所有版本统一声明](https://docs.qq.com/doc/DQm1WRkx3Ymt3dUVT)
+
+[Tangel工作室 隐私声明](https://docs.qq.com/doc/DQlpwT3pEakZxQUt0)
